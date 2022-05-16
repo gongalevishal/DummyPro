@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DummyPro</string>
+
+    <string-array name="new_iem">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
 </resources>
